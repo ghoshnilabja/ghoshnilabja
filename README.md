@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Nilabja Ghosh
-- 👀 I’m interested in Data science and Data analytics
-- 🌱 I’m currently prusing M.Sc. in Data Science
-- 📫 You can reach me at nilabjaghosh2001@gmail.com
+Hi, I’m Nilabja Ghosh
+I’m interested in Data Science and Finance
+I’m currently working as a Research Analyst
+You can reach me at nilabjaghosh2001@gmail.com
 
 
 
