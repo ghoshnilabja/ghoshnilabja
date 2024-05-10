@@ -1,7 +1,7 @@
-Hi, I’m Nilabja Ghosh
-I’m interested in Data Science and Finance
-I’m currently working as a Research Analyst
-You can reach me at nilabjaghosh2001@gmail.com
+Hi, my name is Nilabja Ghosh. <br />
+I’m interested in Data Science and Finance. <br />
+I’m currently working as a Research Analyst. <br />
+Feel free to check out my resume.  You can reach me at nilabjaghosh2001@gmail.com. <br />
 
 
 
